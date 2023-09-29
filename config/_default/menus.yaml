@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 55802a31-eda5-2a58-8d6f-c30480672f50
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 10
+- identifier: 1e04a754-a09b-18e0-13ca-4b11d93889d7
+  name: Questions and Answers
+  pageRef: /pages/questions-and-answers
+  weight: 20
+- identifier: e22b7c4b-f816-692d-5e52-7dc85706150f
+  name: "Introduction to MATLAB\xAE Project Ideas"
+  pageRef: /pages/introduction-to-matlab-project-ideas
+  weight: 30
+- identifier: 4ebd3cc6-69a0-551c-5da6-7211a532469f
+  name: "Other MATLAB\xAE Resources at MIT"
+  pageRef: /pages/other-matlab-resources-at-mit
+  weight: 40
